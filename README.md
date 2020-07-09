@@ -1,5 +1,10 @@
 ### PointSeekBar(可打点进度条)[![Download](https://api.bintray.com/packages/viz/VCommon/pointSeekBar/images/download.svg)](https://bintray.com/viz/VCommon/pointSeekBar/_latestVersion)
 
+gradle引用
+```
+implementation 'viz.commonlib:pointSeekBar:1.0.0'
+```
+
 1. xml
 
 ```xml
