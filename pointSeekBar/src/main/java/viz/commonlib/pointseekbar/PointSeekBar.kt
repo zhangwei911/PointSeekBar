@@ -145,7 +145,7 @@ class PointSeekBar : View {
      * 当前位置大于打点位置时是否改变打点圆形颜色为进度条颜色
      * 此时 pointRadius 必须大于 progressHeight/2 , 否则看不到打点
      */
-    private var isChangePointColor = true
+    var isChangePointColor = true
 
     /**
      * 打点列表
