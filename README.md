@@ -5,6 +5,8 @@ gradle引用
 implementation 'viz.commonlib:pointSeekBar:1.0.0'
 ```
 
+![img](https://github.com/zhangwei911/PointSeekBar/blob/master/capture/point.gif?raw=true)
+
 1. xml
 
 ```xml
